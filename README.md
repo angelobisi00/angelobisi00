@@ -21,3 +21,7 @@ Things I built during my studies:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+## Contact
+
+📍 Torino, Italy · [LinkedIn](https://www.linkedin.com/in/angelo-bisignano/)
