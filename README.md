@@ -11,7 +11,6 @@ IT Auditor at **Deloitte**. I graduated in **Computer Engineering (Cybersecurity
 
 Things I built during my studies:
 
-- 🔐 [Cryptomator4Secube](https://github.com/angelobisi00/Cryptomator4Secube): a modified Cryptomator with support for the Secube Blu5 HSM for password management
 - 🤖 **Recommender systems**: Master's thesis project
 - 🌐 [AW1-Exam-CMsmall](https://github.com/angelobisi00/AW1-Exam-CMsmall): web application for the Web Applications I exam
 
@@ -20,6 +19,5 @@ Things I built during my studies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
