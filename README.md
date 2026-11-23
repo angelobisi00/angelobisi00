@@ -1,5 +1,7 @@
 # Hi, I'm Angelo 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&width=435&lines=IT+Auditor+%40+Deloitte;Cybersecurity+%7C+Torino)](https://github.com/angelobisi00)
+
 IT Auditor at **Deloitte**. I graduated in **Computer Engineering (Cybersecurity)** from the **Politecnico di Torino**.
 
 ## What I do
@@ -16,11 +18,7 @@ Things I built during my studies:
 
 ## Tech from my studies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=python,c,cpp,js,ts&theme=mac&scale=0.6)
 
 ## Contact
 
