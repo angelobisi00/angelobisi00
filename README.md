@@ -18,7 +18,7 @@ Things I built during my studies:
 
 ## Tech from my studies
 
-![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=python,c,cpp,js,ts&theme=mac&scale=0.6)
+![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=python,c,cpp,js,ts&theme=ubuntu&scale=0.6)
 
 ## Contact
 
