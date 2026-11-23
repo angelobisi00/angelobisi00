@@ -18,7 +18,6 @@ Things I built during my studies and in side projects (many of them are in priva
 - 📅 **[LifeWrapped](https://github.com/maton111/lifewrapped)**: team project, activity logging and personal "Wrapped" recaps (C#, TypeScript)
 - 🏠 **Everyday Life Core**: team project, a system to manage daily routines and the home, alone or with roommates (ASP.NET Core, React, Flutter, PostgreSQL)
 - 🚴 **SpinZone**: team project with a Node.js/Express and PostgreSQL backend, a React frontend and a Telegram bot
-- 📱 **PocketAssistant**: web app with a React frontend and a C# backend
 - 🌐 **[AW1-Exam-CMsmall](https://github.com/angelobisi00/AW1-Exam-CMsmall)**: content management system for the Web Applications I exam
 
 ## Tech
