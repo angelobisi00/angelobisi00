@@ -9,16 +9,21 @@ IT Auditor at **Deloitte**. I graduated in **Computer Engineering (Cybersecurity
 - 🛡️ **IT audit**: assessing IT general controls, risks and compliance
 - 🔐 **Cybersecurity**: my academic background, with a focus on cryptography and secure systems
 
-## Past projects
+## Projects
 
-Things I built during my studies:
+Things I built during my studies and in side projects (many of them are in private repositories):
 
-- 🤖 **Recommender systems**: Master's thesis project
-- 🌐 [AW1-Exam-CMsmall](https://github.com/angelobisi00/AW1-Exam-CMsmall): web application for the Web Applications I exam
+- 🔐 **Cryptomator4Secube**: a modified version of Cryptomator with support for the Secube Blu5 HSM for password management
+- 🤖 **Recommender system**: Master's thesis project
+- 📅 **[LifeWrapped](https://github.com/maton111/lifewrapped)**: team project, activity logging and personal "Wrapped" recaps (C#, TypeScript)
+- 🏠 **Everyday Life Core**: team project, a system to manage daily routines and the home, alone or with roommates (ASP.NET Core, React, Flutter, PostgreSQL)
+- 🚴 **SpinZone**: team project with a Node.js/Express and PostgreSQL backend, a React frontend and a Telegram bot
+- 📱 **PocketAssistant**: web app with a React frontend and a C# backend
+- 🌐 **[AW1-Exam-CMsmall](https://github.com/angelobisi00/AW1-Exam-CMsmall)**: content management system for the Web Applications I exam
 
-## Tech from my studies
+## Tech
 
-![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=python,c,cpp,js,ts&theme=ubuntu&scale=0.6)
+![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=python,c,cpp,cs,js,ts,react,flutter,postgres,docker&theme=ubuntu&perline=5&scale=0.6)
 
 ## Contact
 
